@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="About" android:id="@+id/btnAbt">About</item>
+    <item android:title="Feedback" android:id="@+id/btnFeedback">Feedback</item>
+</menu>
